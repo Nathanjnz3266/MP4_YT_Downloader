@@ -1,7 +1,7 @@
 import subprocess
 import os
 import shutil
-import sys #SSS
+import sys
 
 def run_command(cmd):
     print(f"Running: {' '.join(cmd)}")
